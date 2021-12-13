@@ -25,7 +25,7 @@ We employ a Convolutional Autoencoder (CAE) to classify paintings and drawings, 
 ├── BinaryClassification.ipynb
 ├── CAETesting.ipynb
 ├── CaeClassifier.ipynb
-├── e4040.2021spring.AAGT.report.ala2197.gt2447.pdf
+├── Project Paper.pdf
 ├── Original Paper.ipynb
 ├── README.md
 ├── RetrievingData.ipynb
